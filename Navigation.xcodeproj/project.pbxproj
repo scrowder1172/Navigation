@@ -15,6 +15,7 @@
 		522723322AF561D200506526 /* ProgrammaticNavigation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522723312AF561D200506526 /* ProgrammaticNavigation.swift */; };
 		522723342AF56DFE00506526 /* NavigateDifferentDataTypesExamples.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522723332AF56DFE00506526 /* NavigateDifferentDataTypesExamples.swift */; };
 		522723362AF5728800506526 /* NavigationStackReturnToRootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522723352AF5728800506526 /* NavigationStackReturnToRootView.swift */; };
+		522723382AF5798E00506526 /* SaveNavigationStackPath.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522723372AF5798E00506526 /* SaveNavigationStackPath.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		522723312AF561D200506526 /* ProgrammaticNavigation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgrammaticNavigation.swift; sourceTree = "<group>"; };
 		522723332AF56DFE00506526 /* NavigateDifferentDataTypesExamples.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigateDifferentDataTypesExamples.swift; sourceTree = "<group>"; };
 		522723352AF5728800506526 /* NavigationStackReturnToRootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationStackReturnToRootView.swift; sourceTree = "<group>"; };
+		522723372AF5798E00506526 /* SaveNavigationStackPath.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SaveNavigationStackPath.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				522723312AF561D200506526 /* ProgrammaticNavigation.swift */,
 				522723332AF56DFE00506526 /* NavigateDifferentDataTypesExamples.swift */,
 				522723352AF5728800506526 /* NavigationStackReturnToRootView.swift */,
+				522723372AF5798E00506526 /* SaveNavigationStackPath.swift */,
 			);
 			path = Navigation;
 			sourceTree = "<group>";
@@ -154,6 +157,7 @@
 				522723322AF561D200506526 /* ProgrammaticNavigation.swift in Sources */,
 				522723242AF53EAA00506526 /* ContentView.swift in Sources */,
 				522723222AF53EAA00506526 /* NavigationApp.swift in Sources */,
+				522723382AF5798E00506526 /* SaveNavigationStackPath.swift in Sources */,
 				522723342AF56DFE00506526 /* NavigateDifferentDataTypesExamples.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
