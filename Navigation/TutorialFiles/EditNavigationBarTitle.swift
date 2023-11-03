@@ -8,8 +8,19 @@
 import SwiftUI
 
 struct EditNavigationBarTitle: View {
+    @State private var navBarTitle: String = "Hello, World!"
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        NavigationStack {
+            Text("You can change the title bar text if you click the little arrow.")
+                .navigationTitle($navBarTitle)
+                .navigationBarTitleDisplayMode(.inline)
+                .toolbar {
+                    Button("Print the title bar title") {
+                        print(navBarTitle)
+                    }
+                }
+        }
+        
     }
 }
 
