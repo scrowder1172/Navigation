@@ -14,6 +14,7 @@
 		522723302AF5401400506526 /* NavigationLinkExamples.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5227232F2AF5401400506526 /* NavigationLinkExamples.swift */; };
 		522723322AF561D200506526 /* ProgrammaticNavigation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522723312AF561D200506526 /* ProgrammaticNavigation.swift */; };
 		522723342AF56DFE00506526 /* NavigateDifferentDataTypesExamples.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522723332AF56DFE00506526 /* NavigateDifferentDataTypesExamples.swift */; };
+		522723362AF5728800506526 /* NavigationStackReturnToRootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522723352AF5728800506526 /* NavigationStackReturnToRootView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		5227232F2AF5401400506526 /* NavigationLinkExamples.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationLinkExamples.swift; sourceTree = "<group>"; };
 		522723312AF561D200506526 /* ProgrammaticNavigation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgrammaticNavigation.swift; sourceTree = "<group>"; };
 		522723332AF56DFE00506526 /* NavigateDifferentDataTypesExamples.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigateDifferentDataTypesExamples.swift; sourceTree = "<group>"; };
+		522723352AF5728800506526 /* NavigationStackReturnToRootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationStackReturnToRootView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				5227232F2AF5401400506526 /* NavigationLinkExamples.swift */,
 				522723312AF561D200506526 /* ProgrammaticNavigation.swift */,
 				522723332AF56DFE00506526 /* NavigateDifferentDataTypesExamples.swift */,
+				522723352AF5728800506526 /* NavigationStackReturnToRootView.swift */,
 			);
 			path = Navigation;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				522723362AF5728800506526 /* NavigationStackReturnToRootView.swift in Sources */,
 				522723302AF5401400506526 /* NavigationLinkExamples.swift in Sources */,
 				522723322AF561D200506526 /* ProgrammaticNavigation.swift in Sources */,
 				522723242AF53EAA00506526 /* ContentView.swift in Sources */,
