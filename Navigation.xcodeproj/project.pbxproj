@@ -12,6 +12,7 @@
 		522723262AF53EAB00506526 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 522723252AF53EAB00506526 /* Assets.xcassets */; };
 		522723292AF53EAB00506526 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 522723282AF53EAB00506526 /* Preview Assets.xcassets */; };
 		522723302AF5401400506526 /* NavigationLinkExamples.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5227232F2AF5401400506526 /* NavigationLinkExamples.swift */; };
+		522723322AF561D200506526 /* ProgrammaticNavigation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522723312AF561D200506526 /* ProgrammaticNavigation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		522723252AF53EAB00506526 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		522723282AF53EAB00506526 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5227232F2AF5401400506526 /* NavigationLinkExamples.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationLinkExamples.swift; sourceTree = "<group>"; };
+		522723312AF561D200506526 /* ProgrammaticNavigation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgrammaticNavigation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				522723252AF53EAB00506526 /* Assets.xcassets */,
 				522723272AF53EAB00506526 /* Preview Content */,
 				5227232F2AF5401400506526 /* NavigationLinkExamples.swift */,
+				522723312AF561D200506526 /* ProgrammaticNavigation.swift */,
 			);
 			path = Navigation;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				522723302AF5401400506526 /* NavigationLinkExamples.swift in Sources */,
+				522723322AF561D200506526 /* ProgrammaticNavigation.swift in Sources */,
 				522723242AF53EAA00506526 /* ContentView.swift in Sources */,
 				522723222AF53EAA00506526 /* NavigationApp.swift in Sources */,
 			);
