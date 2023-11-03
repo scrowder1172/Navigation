@@ -18,6 +18,7 @@
 		522723382AF5798E00506526 /* SaveNavigationStackPath.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522723372AF5798E00506526 /* SaveNavigationStackPath.swift */; };
 		5227233B2AF5959E00506526 /* NavigationBarCustomization.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5227233A2AF5959E00506526 /* NavigationBarCustomization.swift */; };
 		5227233D2AF5974900506526 /* PlaceToolbarButtonsExactly.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5227233C2AF5974900506526 /* PlaceToolbarButtonsExactly.swift */; };
+		5227233F2AF59B4600506526 /* EditNavigationBarTitle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5227233E2AF59B4600506526 /* EditNavigationBarTitle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		522723372AF5798E00506526 /* SaveNavigationStackPath.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SaveNavigationStackPath.swift; sourceTree = "<group>"; };
 		5227233A2AF5959E00506526 /* NavigationBarCustomization.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationBarCustomization.swift; sourceTree = "<group>"; };
 		5227233C2AF5974900506526 /* PlaceToolbarButtonsExactly.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaceToolbarButtonsExactly.swift; sourceTree = "<group>"; };
+		5227233E2AF59B4600506526 /* EditNavigationBarTitle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditNavigationBarTitle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +94,7 @@
 				522723372AF5798E00506526 /* SaveNavigationStackPath.swift */,
 				5227233A2AF5959E00506526 /* NavigationBarCustomization.swift */,
 				5227233C2AF5974900506526 /* PlaceToolbarButtonsExactly.swift */,
+				5227233E2AF59B4600506526 /* EditNavigationBarTitle.swift */,
 			);
 			path = TutorialFiles;
 			sourceTree = "<group>";
@@ -166,6 +169,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5227233F2AF59B4600506526 /* EditNavigationBarTitle.swift in Sources */,
 				522723362AF5728800506526 /* NavigationStackReturnToRootView.swift in Sources */,
 				522723302AF5401400506526 /* NavigationLinkExamples.swift in Sources */,
 				5227233D2AF5974900506526 /* PlaceToolbarButtonsExactly.swift in Sources */,
