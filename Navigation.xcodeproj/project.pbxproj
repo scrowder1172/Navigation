@@ -64,12 +64,8 @@
 				522723212AF53EAA00506526 /* NavigationApp.swift */,
 				522723232AF53EAA00506526 /* ContentView.swift */,
 				522723252AF53EAB00506526 /* Assets.xcassets */,
+				522723392AF58BE000506526 /* TutorialFiles */,
 				522723272AF53EAB00506526 /* Preview Content */,
-				5227232F2AF5401400506526 /* NavigationLinkExamples.swift */,
-				522723312AF561D200506526 /* ProgrammaticNavigation.swift */,
-				522723332AF56DFE00506526 /* NavigateDifferentDataTypesExamples.swift */,
-				522723352AF5728800506526 /* NavigationStackReturnToRootView.swift */,
-				522723372AF5798E00506526 /* SaveNavigationStackPath.swift */,
 			);
 			path = Navigation;
 			sourceTree = "<group>";
@@ -80,6 +76,18 @@
 				522723282AF53EAB00506526 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		522723392AF58BE000506526 /* TutorialFiles */ = {
+			isa = PBXGroup;
+			children = (
+				5227232F2AF5401400506526 /* NavigationLinkExamples.swift */,
+				522723312AF561D200506526 /* ProgrammaticNavigation.swift */,
+				522723332AF56DFE00506526 /* NavigateDifferentDataTypesExamples.swift */,
+				522723352AF5728800506526 /* NavigationStackReturnToRootView.swift */,
+				522723372AF5798E00506526 /* SaveNavigationStackPath.swift */,
+			);
+			path = TutorialFiles;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
